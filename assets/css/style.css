@@ -1,0 +1,30 @@
+h1{
+   font-family: 'Segoe UI',sans-serif;
+   text-align: center;
+}
+ul{
+    list-style: none;
+}
+ li {
+    font-family:'Segoe UI',sans-serif;
+    font-size:2em; 
+
+}
+input[type=radio]{
+    border:0px;
+    width: 30 px;
+    height: 2em;
+}
+
+p{
+font-family:'Segoe', sans-serif;
+}
+.triviaContainer{
+    background-color: blueviolet;
+    border-radius:7px;
+    width:85%;
+    margin: auto;
+    padding-top:6px;
+    box-shadow:10 px 10 px 5 px #888;
+    position: relative;
+}
